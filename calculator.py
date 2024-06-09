@@ -8,3 +8,6 @@ for i in range(n):
 
 
 print(b)
+
+class Motocycle():
+    pass
